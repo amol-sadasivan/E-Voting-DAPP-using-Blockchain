@@ -1,0 +1,15 @@
+{
+  "name": "e-voting-dapp",
+  "version": "1.0.0",
+  "description": "ethereum based application using metamask and solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "author": "varun, amol, kashyap",
+  "license": "ISC",
+  "devDependencies": {}
+}
