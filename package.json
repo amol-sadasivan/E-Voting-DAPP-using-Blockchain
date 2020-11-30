@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amol-sadasivan/E-Voting-DAPP-using-Blockchain.git"
+  },
   "dependencies": {
     "express": "^4.15.2"
   },
